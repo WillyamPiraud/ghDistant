@@ -1,3 +1,4 @@
+import constante.algo
 Algo HelloWorld {
  fonction principale {
 // Création de la fenetre
